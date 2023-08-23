@@ -20,12 +20,12 @@ def main():
 
     st.divider()
     st.caption("Designed & Developed by HUSAM")
+    st.write("This Web App Is Made to Help You Access All The Important BITS Pilani, Dubai Admin & Academic Websites at a Single Website")
     st.caption("The app is designed using Streamlit")
 
 
 def show_homepage():
     st.header("Welcome to the University Clubs Dashboard!")
-    st.write("This Web App Is Made to Help You Access All The Important BITS Pilani, Dubai Admin & Academic Websites at a Single Website")
     st.write("Use the sidebar to navigate to different sections.")
     
 
