@@ -25,7 +25,7 @@ def main():
 
 def show_homepage():
     st.header("Welcome to the University Clubs Dashboard!")
-    st.text("This Web App Is Made to Help You Access All The Important BITS Pilani, Dubai Admin & Academic Websites at a Single Website")
+    st.write("This Web App Is Made to Help You Access All The Important BITS Pilani, Dubai Admin & Academic Websites at a Single Website")
     st.write("Use the sidebar to navigate to different sections.")
     
 
