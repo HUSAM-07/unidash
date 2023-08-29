@@ -4,7 +4,7 @@ import streamlit as st
 
 def main():
 
-    st.title("University Clubs Dashboard")
+    st.title("University Dashboard")
     st.markdown("---")
 
     # Sidebar
