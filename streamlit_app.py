@@ -33,6 +33,7 @@ def show_homepage():
 def show_clubs_resources():
     st.header("Clubs Resources")
     st.markdown("---")
+    st.markdown("Feel free to contribute")
 
     st.subheader("GDSC Resources")
     st.markdown('<div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px;">'
