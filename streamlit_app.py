@@ -66,7 +66,7 @@ def show_university_resources():
     st.subheader("Courses & LMS")
     st.markdown('<div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px;">'
                 '<iframe src="https://lms.bitspilanidubai.ae/login/index.php" width="1000" height="400"></iframe>'
-                '</div>', unsafe_allow_html=True)
+                '</div>', unsafe_allow_html=False)
 
     st.markdown("---")
     st.subheader("BITS ERP")
